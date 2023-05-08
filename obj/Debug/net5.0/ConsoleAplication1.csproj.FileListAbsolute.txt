@@ -1,0 +1,16 @@
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.exe
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.deps.json
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.runtimeconfig.json
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.runtimeconfig.dev.json
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.dll
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ConsoleAplication1.pdb
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.AssemblyInfoInputs.cache
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.AssemblyInfo.cs
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.dll
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ref\ConsoleAplication1.dll
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.pdb
+C:\Users\Nohan\source\repos\ConsoleAplication1\obj\Debug\net5.0\ConsoleAplication1.genruntimeconfig.cache
+C:\Users\Nohan\source\repos\ConsoleAplication1\bin\Debug\net5.0\ref\ConsoleAplication1.dll
